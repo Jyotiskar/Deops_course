@@ -1,1 +1,1 @@
-# Deops_course
+# Devops_course
